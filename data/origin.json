@@ -1,0 +1,14 @@
+[
+  {
+    "type":"table",
+    "name":"weapons",
+    "weight":50,
+    "count":"1d6+3"
+  },
+  {
+    "type":"table",
+    "name":"armor",
+    "weight":50,
+    "count":"2d4+2"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name":"blade",
+    "weight":33,
+    "type":"item"
+  },
+  {
+    "name":"hammer",
+    "weight":33,
+    "type":"item"
+  },
+  {
+    "name":"spear",
+    "weight":33,
+    "type":"item"
+  }
+]

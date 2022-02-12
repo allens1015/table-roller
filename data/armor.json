@@ -1,0 +1,17 @@
+[
+  {
+    "name":"light_armor",
+    "weight":33,
+    "type":"item"
+  },
+  {
+    "name":"med_armor",
+    "weight":33,
+    "type":"item"
+  },
+  {
+    "name":"heavy_armor",
+    "weight":33,
+    "type":"item"
+  }
+]

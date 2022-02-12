@@ -1,0 +1,8 @@
+[
+  {
+    "name":"+1",
+    "type":"add",
+    "weight":1,
+    "continue_name":"test_add2"
+  }
+]
